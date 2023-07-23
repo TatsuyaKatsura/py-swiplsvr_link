@@ -4,7 +4,7 @@
 
 ・prolog.query(query)    検索するクエリ
 
-接続するSWI=Prologサーバのポートは書き換えて
+接続するSWI-Prologサーバ(https://github.com/kamahen/swipl-server-js-client)https://github.com/kamahen/swipl-server-js-client)のポートは書き換えて
 
 
 # py-swiplsvr_link
